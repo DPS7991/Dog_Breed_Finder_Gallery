@@ -1,0 +1,13 @@
+.image__container {
+  margin: 20px;
+  height: 10px;
+  width: 400px;
+}
+
+.image__card {
+  display: flex;
+  align-items: center;
+  width: 100%;
+  height: 100%;
+  box-sizing: border-box;
+}
